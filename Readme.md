@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # FarmTracker App
 
 FarmTracker is a Django web application designed to help farmers track their plans, animal produce, expenses, and profits. This app provides a user-friendly interface to manage farm-related data efficiently.
